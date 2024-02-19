@@ -1,5 +1,5 @@
 {
-  "name": "EsercizioBE",
+  "name": "eserciziobe",
   "version": "1.0.0",
   "description": "EsercizioBE",
   "main": "index.js",
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/23nernst84/nanosoft-bookTheDocs.git"
+    "url": "git+ssh://git@github.com:Nicola-Proscia/esercizioBe.git"
   },
   "keywords": [
     "agenda"
   ],
-  "author": "LorNIk-dev",
+  "author": "Nicola-Proscia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/23nernst84/nanosoft-bookTheDocs/issues"
+    "url": "https://github.com/Nicola-Proscia/esercizioBe"
   },
-  "homepage": "https://github.com/23nernst84/nanosoft-bookTheDocs#readme",
+  "homepage": "https://github.com/Nicola-Proscia/esercizioBe#readme",
   "dependencies": {
     "@socket.io/mongo-adapter": "^0.3.0",
     "bcryptjs": "^2.4.3",
